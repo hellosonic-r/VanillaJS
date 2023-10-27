@@ -251,3 +251,8 @@ textarea::placeholder {
 .header-title:hover {
   cursor: pointer;
 }
+
+body {
+  font-family: "Apple SD Gothic Neo", AppleGothicNeoSD, "Apple SD 산돌고딕 Neo",
+    "맑은 고딕", "Malgun Gothic", 나눔고딕, sans-serif;
+}
